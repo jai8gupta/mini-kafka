@@ -1,0 +1,7 @@
+com/minilog/log/PartitionLog.class
+com/minilog/broker/BrokerHandler.class
+com/minilog/log/Record.class
+com/minilog/log/PartitionManager.class
+com/minilog/App.class
+com/minilog/log/LogSegment.class
+com/minilog/broker/BrokerServer.class

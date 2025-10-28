@@ -1,0 +1,7 @@
+/Users/jai.gupta/Desktop/mini-kafka/mini-kafka/src/main/java/com/minilog/App.java
+/Users/jai.gupta/Desktop/mini-kafka/mini-kafka/src/main/java/com/minilog/broker/BrokerHandler.java
+/Users/jai.gupta/Desktop/mini-kafka/mini-kafka/src/main/java/com/minilog/broker/BrokerServer.java
+/Users/jai.gupta/Desktop/mini-kafka/mini-kafka/src/main/java/com/minilog/log/LogSegment.java
+/Users/jai.gupta/Desktop/mini-kafka/mini-kafka/src/main/java/com/minilog/log/PartitionLog.java
+/Users/jai.gupta/Desktop/mini-kafka/mini-kafka/src/main/java/com/minilog/log/PartitionManager.java
+/Users/jai.gupta/Desktop/mini-kafka/mini-kafka/src/main/java/com/minilog/log/Record.java
