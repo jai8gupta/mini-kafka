@@ -76,3 +76,13 @@ name=Jai
 city=Delhi
 END
 BYE
+
+
+🧑‍💻 Author
+
+Jai Gupta
+Full Stack Engineer | Distributed Systems Enthusiast
+📍 India
+🔗 LinkedIn - https://www.linkedin.com/in/jai-gupta-51301b203/
+
+💻 GitHub - https://github.com/jai8gupta
